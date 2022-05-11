@@ -5,11 +5,14 @@
     .headings {
         color: #9693e6;
         text-align: center;
-       padding: 20px;
+        padding: 5px;
+        .head-title{
+            margin: 40px 0;
+        }
     }
     .card-container {
         .card-divs{
-            margin-top: 50px;
+            margin-top: 20px;
             padding: 0 20px;
         }
         .card {

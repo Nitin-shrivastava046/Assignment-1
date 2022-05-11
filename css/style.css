@@ -34,10 +34,13 @@
 .main-body .headings {
   color: #9693e6;
   text-align: center;
-  padding: 20px;
+  padding: 5px;
+}
+.main-body .headings .head-title {
+  margin: 40px 0;
 }
 .main-body .card-container .card-divs {
-  margin-top: 50px;
+  margin-top: 20px;
   padding: 0 20px;
 }
 .main-body .card-container .card {
