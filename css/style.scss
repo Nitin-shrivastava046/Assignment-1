@@ -1,0 +1,12 @@
+@import "header";
+@import "card";
+
+.footer-links{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    p{
+        color: white;
+        margin: 0 10px;
+    }
+}
